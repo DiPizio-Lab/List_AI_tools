@@ -1,4 +1,4 @@
-# ProteinDesign
+# List of AI tools
 
 This repository is a comprehensive collection of modern tools and methods for protein structure prediction, design, and analysis.
 
