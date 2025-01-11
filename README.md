@@ -1,5 +1,23 @@
 # ProteinDesign
 
+This repository is a comprehensive collection of modern tools and methods for protein structure prediction, design, and analysis.
+
+## 📖 How to use
+
+Each tool in this repository contains
+
+- A link to its GitHub repository to access the source code.
+- Web server details (if available) for ease of use.
+- A brief description of its methodology and primary uses.
+- References to academic publications or preprints for further reading.
+
+## 🚀 Key Features.
+
+- **Diverse Methods:** Includes tools based on AlphaFold, Rosetta, and other state-of-the-art architectures.
+- **Comprehensive Scope:** From small peptide design to large protein complexes, these tools cover a wide range of protein engineering needs.
+- **Open Access:** Most tools are available through open source repositories, ensuring accessibility and customization for research.
+
+🔨 This collection is continuously updated to include the latest advancements in the field. Contributions and suggestions are always welcome!
 
 
 | Software Name        | Code Repository                                                                                                     | Webserver                                                                                            | Method                                 | Monomers   | Complexes   | Non-Protein   | Ensemble   | Sequence   | Reference                                                                     | Description                                                                                                                       |
@@ -40,5 +58,5 @@
 | evo                  | https://github.com/evo-design/evo                                                                                   | https://colab.research.google.com/github/evo-design/evo/blob/main/scripts/hello_evo.ipynb            | Large language models                  | nan        | nan         | nan           | nan        | nan        | 10.1126/science.ado9336                                                       | design crisp system, designs synthetic multi-component biological systems, predicts the effects of mutations down to genome level |
 | AlphaFold database   | nan                                                                                                                 | https://alphafold.ebi.ac.uk/                                                                         | nan                                    | Yes        | No          | No            | No         | nan        | nan                                                                           | Database with over                                                                                                                |
 | ColabFold            | nan                                                                                                                 | https://github.com/sokrypton/ColabFold                                                               | nan                                    | Yes        | Yes         | Yes           | No         | nan        | 10.1101/2024.11.18.622547v1                                                   | jupyter notebooks to run on clouds different software                                                                             |
-| AlphaBridge          | nan                                                                                                                 | alpha-bridge.eu                                                                                      | nan                                    | No         | No          | No            | No         | nan        | 10.1101/2024.10.23.619601v1                                                   | tools for analysis of alphafold results                                                                                           |
+| AlphaBridge          | nan                                                                                                                 | https://alpha-bridge.eu/                                                                             | nan                                    | No         | No          | No            | No         | nan        | 10.1101/2024.10.23.619601v1                                                   | tools for analysis of alphafold results                                                                                           |
 | cPEPmatch            | https://github.com/briandasantini/cPEPmatch                                                                         | https://t38webservices.nat.tum.de/cpepmatch/                                                         | Classical homology model               | Yes        | Yes         | No            | No         | nan        | https://pubmed.ncbi.nlm.nih.gov/33134275/                                     | cyclic peptide design                                                                                                             |
