@@ -19,7 +19,7 @@ Each tool in this repository contains
 
 #### 🔨 This collection is continuously updated to include the latest advancements in the field. Contributions and suggestions are always welcome!
 
-## 👨‍💻 Curators:
+## 👨‍💻 Maintainers:
 - [Alessandro Nicoli](https://github.com/anicoli)  
 - [Vincent Roller](https://github.com/RollerVincent)
 
