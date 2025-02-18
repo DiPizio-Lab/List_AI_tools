@@ -11,13 +11,17 @@ Each tool in this repository contains
 - A brief description of its methodology and primary uses.
 - References to academic publications or preprints for further reading.
 
-## 🚀 Key Features.
+## 🚀 Key Features
 
 - **Diverse Methods:** Includes tools based on AlphaFold, Rosetta, and other state-of-the-art architectures.
 - **Comprehensive Scope:** From small peptide design to large protein complexes, these tools cover a wide range of protein engineering needs.
 - **Open Access:** Most tools are available through open source repositories, ensuring accessibility and customization for research.
 
 #### 🔨 This collection is continuously updated to include the latest advancements in the field. Contributions and suggestions are always welcome!
+
+## 👨‍💻 Curators:
+- [Alessandro Nicoli](https://github.com/anicoli)  
+- [Vincent Roller](https://github.com/RollerVincent)
 
 ---
 
