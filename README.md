@@ -1,31 +1,42 @@
-# List of AI tools
+# List of AI Tools
 
 This repository is a comprehensive collection of modern tools and methods for protein structure prediction, design, and analysis.
 
+## Table of Contents
+
+1. [Protein Folding](protein_folding.md)  
+2. [De Novo Protein Design](de_novo_protein_design.md)  
+3. [De Novo Peptide Design](de_novo_peptide_design.md)  
+4. [Conformational Ensemble Dynamics](ensemble_dynamics.md)  
+5. [Peptide/Protein Docking](peptide_protein_docking.md)  
+6. [Ligand Docking](ligand_docking.md)
+
 ## 📖 How to use
 
-Each tool in this repository contains
-
-- A link to its GitHub repository to access the source code.
-- Web server details (if available) for ease of use.
-- A brief description of its methodology and primary uses.
-- References to academic publications or preprints for further reading.
+For each tool in this repository we provide:
+- Name
+- Year
+- Architecture
+- Code repository link
+- Webserver link
+- Reference
 
 ## 🚀 Key Features
 
-- **Diverse Methods:** Includes tools based on AlphaFold, Rosetta, and other state-of-the-art architectures.
-- **Comprehensive Scope:** From small peptide design to large protein complexes, these tools cover a wide range of protein engineering needs.
-- **Open Access:** Most tools are available through open source repositories, ensuring accessibility and customization for research.
-
-#### 🔨 This collection is continuously updated to include the latest advancements in the field. Contributions and suggestions are always welcome!
+- **Diverse Methods:** Includes tools based on AlphaFold, Rosetta, and other state-of-the-art architectures.  
+- **Comprehensive Scope:** From small peptide design to large protein complexes, these tools cover a wide range of protein engineering needs.  
+- **Open Access:** Most tools are available through open source repositories, ensuring accessibility and customization for research.  
 
 ## 👨‍💻 Maintainers:
 - [Alessandro Nicoli](https://github.com/anicoli)  
 - [Vincent Roller](https://github.com/RollerVincent)
 
+#### 🔨 This collection is continuously updated to include the latest advancements in the field. Contributions and suggestions are always welcome!
+
+
 ---
 
-
+## Old Table
 
 
 | Software Name        | Code Repository                                                                                                     | Webserver                                                                                            | Method                                 | Monomers   | Complexes   | Non-Protein   | Ensemble   | Sequence   | Reference                                                                     | Description                                                                                                                       |
