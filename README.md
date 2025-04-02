@@ -4,12 +4,12 @@ This repository is a comprehensive collection of modern tools and methods for pr
 
 ## Table of Contents
 
-1. [Protein Folding](protein_folding.md)  
-2. [De Novo Protein Design](de_novo_protein_design.md)  
-3. [De Novo Peptide Design](de_novo_peptide_design.md)  
-4. [Conformational Ensemble Dynamics](ensemble_dynamics.md)  
-5. [Peptide/Protein Docking](peptide_protein_docking.md)  
-6. [Ligand Docking](ligand_docking.md)
+1. [Protein Folding](protein-folding/README.md)  
+2. [De Novo Protein Design](de-novo-protein-design/README.md)  
+3. [De Novo Peptide Design](de-novo-peptide-design/README.md)  
+4. [Conformational Ensemble Dynamics](conformational-ensemble-dynamics/README.md)  
+5. [Peptide/Protein Docking](peptide-protein-docking/README.md)  
+6. [Ligand Docking](ligand-docking/README.md)
 
 ## 📖 How to use
 
