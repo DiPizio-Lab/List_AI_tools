@@ -9,3 +9,4 @@
 | PocketGen      | 2024     | Generative deep learning         | [GitHub](https://github.com/zaixizhang/PocketGen)    | [Project Page](https://zitniklab.hms.harvard.edu/projects/PocketGen/)                | [s42256-024-00920-9](https://doi.org/10.1038/s42256-024-00920-9)        |
 | GrASP          | 2023     | Deep learning                    | [GitHub](https://github.com/tiwarylab/GrASP)         | [Colab Notebook](https://colab.research.google.com/github/tiwarylab/GrASP/blob/main/GrASP.ipynb) | [10.1021/acs.jcim.3c01698](https://doi.org/10.1021/acs.jcim.3c01698)    |
 | LightDock<sup>‡</sup> | 2023     | Particle-swarm docking           | [GitHub](https://github.com/lightdock)               | [LightDock Server](https://server.lightdock.org/)                                     | [10.1093/nar/gkad327](https://doi.org/10.1093/nar/gkad327)             |
+
