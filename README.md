@@ -13,7 +13,8 @@ This repository is a comprehensive collection of modern tools and methods for pr
 
 ## 📖 How to use
 
-For each tool in this repository we provide:
+Follow the links in the table of contents for the tool tables
+For each tool in a table we provide:
 - Name
 - Year
 - Architecture
