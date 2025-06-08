@@ -1,6 +1,6 @@
 # List of AI Tools
 
-This repository is a comprehensive collection of modern tools and methods for protein structure prediction, design, and analysis.
+This repository is a comprehensive collection of AI-powered tools and methods for protein structure prediction, de novo protein design, biomolecular interactions and conformational sampling.
 
 ## Table of Contents
 
