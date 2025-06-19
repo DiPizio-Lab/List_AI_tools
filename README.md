@@ -12,8 +12,8 @@ This repository is a comprehensive collection of AI-powered tools and methods fo
 
 3. [De Novo Peptide Design](de-novo-peptide-design/README.md)  
    *Learn how machine learning models generate new peptide sequences with targeted functionalities for therapeutic and research applications.*
-
-4. [Conformational Ensemble Dynamics](conformational-ensemble-dynamics/README.md)  
+conformational-ensemble-design
+4. [Conformational Ensemble Dynamics](conformational-ensemble-design/README.md)  
    *Utilize AI methods to analyze dynamic conformational landscapes of proteins and peptides, revealing critical insights into their behavior.*
 
 5. [Peptide/Protein Docking](peptide-protein-docking/README.md)  
