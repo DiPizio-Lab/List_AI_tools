@@ -1,4 +1,4 @@
-## 2. De Novo Protein Design
+## 5. De Novo Protein Design
 
 | **Name**             | **Year** | **Architecture**         | **Code repository**                                                                                                     | **Webserver**                                                                                 | **Reference**                                                            |
 |:---------------------|:--------:|:-------------------------|:------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------|
@@ -11,3 +11,4 @@
 | ProteinMPNN          | 2022     | Deep learning            | [GitHub](https://github.com/dauparas/ProteinMPNN)                                                                       | [Neurosnap](https://neurosnap.ai/service/ProteinMPNN)                                          | [10.1126/science.add2187](https://doi.org/10.1126/science.add2187)       |
 | ProtGPT2             | 2022     | Language model           | [Hugging Face](https://huggingface.co/nferruz/ProtGPT2)                                                                 | None                                                                                           | [10.1038/s41467-022-32007-7](https://doi.org/10.1038/s41467-022-32007-7) |
 | trRosetta            | 2021     | Deep learning            | [GitHub](https://github.com/gjoni/trDesign)                                                                             | [Yang Lab](https://yanglab.nankai.edu.cn/trRosetta/download/)                                  | [s41586-021-04184-w](https://doi.org/10.1038/s41586-021-04184-w)         |
+
