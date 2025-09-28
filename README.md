@@ -1,6 +1,6 @@
 # List of AI Tools
 
-This repository is a comprehensive collection of AI-powered tools for molecular modeling application, including protein structure prediction, de novo protein design, biomolecular interactions and conformational sampling.
+This repository is a comprehensive collection of AI-powered tools for molecular modeling applications, including protein structure prediction, de novo protein design, biomolecular interactions and conformational sampling.
 
 ## Table of Contents
 
