@@ -7,7 +7,7 @@ This repository is a comprehensive collection of AI-powered tools for molecular 
 1. [Protein structure prediction](protein-folding/README.md)  
    *Discover AI tools that predict protein folding patterns, accelerating insights into protein structure and function.*
 
-2. [Protein Docking/Multimers] (https://github.com/DiPizio-Lab/List_AI_tools/blob/main/protein-protein%20docking).
+2. [Protein Docking/Multimers](https://github.com/DiPizio-Lab/List_AI_tools/blob/main/protein-protein%20docking)
    *Harness AI algorithms to predict interactions between proteins, including multimers and protein complexes.*
 
 4. [Peptide Docking](peptide-protein-docking/README.md)  
