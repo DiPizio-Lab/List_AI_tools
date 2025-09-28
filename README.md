@@ -16,11 +16,14 @@ This repository is a comprehensive collection of AI-powered tools for molecular 
 4. [Conformational Ensemble Dynamics](conformational-ensemble-design/README.md)  
    *Utilize AI methods to analyze conformational landscapes of proteins, revealing critical insights into their dynamic behavior.*
 
-5. [Peptide/Protein Docking](peptide-protein-docking/README.md)  
-   *Harness AI algorithms to predict interactions between peptides and proteins, facilitating understanding of molecular mechanisms.*
-
-6. [Ligand Docking/Cofolding](ligand-docking/README.md)  
+5. [Ligand Docking/Cofolding](ligand-docking/README.md)  
    *Leverage cutting-edge AI approaches for predicting ligand binding, a key step in modifying protein activity.*
+
+6. [Protein Docking/Multimers](peptide-protein-docking/README.md)  
+   *Harness AI algorithms to predict interactions between proteins, including multimers and protein complexes.*
+
+7. [Peptide Docking](peptide-protein-docking/README.md)  
+   *Harness AI algorithms to predict interactions between peptides and proteins, facilitating understanding of peptides' molecular mechanisms.*
 
 
 ## 📖 How to use
