@@ -10,22 +10,22 @@ This repository is a comprehensive collection of AI-powered tools for molecular 
 2. [Protein Docking/Multimers](https://github.com/DiPizio-Lab/List_AI_tools/blob/main/protein-protein%20docking)
    *Harness AI algorithms to predict interactions between proteins, including multimers and protein complexes.*
 
-4. [Peptide Docking](peptide-protein-docking/README.md)  
+5. [Peptide Docking](peptide-protein-docking/README.md)  
    *Harness AI algorithms to predict interactions between peptides and proteins, facilitating understanding of peptides' molecular mechanisms.*
 
-5. [Ligand docking/Cofolding](ligand-docking/README.md)  
+6. [Ligand docking/Cofolding](ligand-docking/README.md)  
    *Leverage cutting-edge AI approaches for predicting ligand binding, a key step in modifying protein activity.*
 
-6. [De novo protein design](de-novo-protein-design/README.md)  
+7. [De novo protein design](de-novo-protein-design/README.md)  
    *Explore advanced AI-driven techniques for designing novel protein structures from scratch, enabling in-silico protein engineering.*
 
-7. [De novo peptide design](de-novo-peptide-design/README.md)  
+8. [De novo peptide design](de-novo-peptide-design/README.md)  
    *Learn how AI models generate new peptide sequences with targeted functionalities for therapeutic and research applications.*
 
-8. [Conformational ensemble dynamics](conformational-ensemble-design/README.md)  
+9. [Conformational ensemble dynamics](conformational-ensemble-design/README.md)  
    *Utilize AI methods to analyze conformational landscapes of proteins, revealing critical insights into their dynamic behavior.*
 
-9. [Tools for structural analysis](/README.md)  
+10. [Tools for structural analysis](/README.md)  
    *Explore tools that have been designed to analyse AI-powered structure models, facilitating the use and interpretation of results.*
 
 
