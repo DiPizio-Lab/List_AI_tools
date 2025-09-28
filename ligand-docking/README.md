@@ -1,5 +1,5 @@
 
-## 6. Ligand Docking
+## 6. Ligand Docking/Cofolding
 
 | **Name**       | **Year** | **Architecture**                 | **Code repository**                                  | **Webserver**                                                                         | **Reference**                                             |
 |:---------------|:--------:|:---------------------------------|:-----------------------------------------------------|:--------------------------------------------------------------------------------------|:----------------------------------------------------------|
@@ -10,5 +10,6 @@
 | Chai-1                | 2024     | Deep learning                                  | [GitHub](https://github.com/chaidiscovery/chai-lab)            | [Chai Lab](https://lab.chaidiscovery.com/)                                     | [10.1101/2024.10.10.615955](https://doi.org/10.1101/2024.10.10.615955)       |
 | GrASP          | 2023     | Deep learning                    | [GitHub](https://github.com/tiwarylab/GrASP)         | [Colab Notebook](https://colab.research.google.com/github/tiwarylab/GrASP/blob/main/GrASP.ipynb) | [10.1021/acs.jcim.3c01698](https://doi.org/10.1021/acs.jcim.3c01698)    |
 | LightDock<sup>‡</sup> | 2023     | Particle-swarm docking           | [GitHub](https://github.com/lightdock)               | [LightDock Server](https://server.lightdock.org/)                                     | [10.1093/nar/gkad327](https://doi.org/10.1093/nar/gkad327)             |
+
 
 
