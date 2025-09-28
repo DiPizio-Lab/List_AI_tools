@@ -2,7 +2,7 @@
 
 | **Name**              | **Year** | **Architecture**                                | **Code repository**                                           | **Webserver**                                                                 | **Reference**                                                     |
 |:----------------------|:--------:|:-----------------------------------------------|:---------------------------------------------------------------|:-------------------------------------------------------------------------------|:------------------------------------------------------------------|
-| AlphaBridge           | 2024     | AF post-processing / analysis                  | None                                                           | [AlphaBridge](https://alpha-bridge.eu/)                                        | [10.1101/2024.10.23.619601v1](https://doi.org/10.1101/2024.10.23.619601v1)  |
+| Boltz-2   | 2025     |  Geometric Deep Learning | [GitHub](https://github.com/jwohlwend/boltz)     | [Boltz-2/NVIDIA](https://build.nvidia.com/mit/boltz2)                                                                                 | [10.1101/2025.06.14.659707](10.1101/2025.06.14.659707)        |
 | AlphaFold 3           | 2024     | Deep learning                                  | [GitHub](https://github.com/google-deepmind/alphafold3)        | [AlphaFold Server](https://alphafoldserver.com/)                               | [10.1038/s41586-024-07487-w](https://doi.org/10.1038/s41586-024-07487-w)     |
 | HelixFold3            | 2024     | Deep learning                                  | [GitHub](https://github.com/PaddlePaddle/PaddleHelix)          | [HelixFold3](https://paddlehelix.baidu.com/app/all/helixfold3/forecast)        | [arXiv:2408.16975](https://arxiv.org/abs/2408.16975)                         |
 | Boltz-1               | 2024     | Deep learning                                  | [GitHub](https://github.com/jwohlwend/boltz)                   | [Neurosnap](https://neurosnap.ai/service/Boltz-1%20(AlphaFold3))               | [10.1101/2024.11.19.624167](https://doi.org/10.1101/2024.11.19.624167)       |
@@ -16,6 +16,7 @@
 | AlphaFold-Multimer    | 2021     | Deep learning                                  | None                                                           | None                                                                           | [10.1101/2021.10.04.463034v2](https://doi.org/10.1101/2021.10.04.463034v2)   |
 | ESM-2 Fold            | 2021     | Transformer-based                              | [GitHub](https://github.com/facebookresearch/esm/tree/main)     | None                                                                           | [10.1073/pnas.2016239118](https://doi.org/10.1073/pnas.2016239118)          |
 | ColabFold             | 2021     | Deep learning                                  | [GitHub](https://github.com/sokrypton/ColabFold)               | None                                                                           | None                                                                 |
+
 
 
 
