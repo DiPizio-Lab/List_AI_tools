@@ -7,7 +7,6 @@
 | HelixFold3            | 2024     | Deep learning                                  | [GitHub](https://github.com/PaddlePaddle/PaddleHelix)          | [HelixFold3](https://paddlehelix.baidu.com/app/all/helixfold3/forecast)        | [arXiv:2408.16975](https://arxiv.org/abs/2408.16975)                         |
 | Boltz-1               | 2024     | Deep learning                                  | [GitHub](https://github.com/jwohlwend/boltz)                   | [Neurosnap](https://neurosnap.ai/service/Boltz-1%20(AlphaFold3))               | [10.1101/2024.11.19.624167](https://doi.org/10.1101/2024.11.19.624167)       |
 | Chai-1                | 2024     | Deep learning                                  | [GitHub](https://github.com/chaidiscovery/chai-lab)            | [Chai Lab](https://lab.chaidiscovery.com/)                                     | [10.1101/2024.10.10.615955](https://doi.org/10.1101/2024.10.10.615955)       |
-| AlphaMissense         | 2023     | Unsupervised protein language modeling         | [GitHub](https://github.com/deepmind/alphamissense)            | None                                                                           | [10.1126/science.adg7492](https://doi.org/10.1126/science.adg7492)           |
 | Protenix              | 2023*    | Deep learning                                  | [GitHub](https://github.com/bytedance/Protenix)                | None                                                                           | [Technical Report](https://github.com/bytedance/Protenix/blob/main/Protenix_Technical_Report.pdf) |
 | OmegaFold             | 2023     | Deep learning                                  | [GitHub](https://github.com/HeliXon/OmegaFold)                 | None                                                                           | [s41467-023-37139-y](https://doi.org/10.1038/s41467-023-37139-y)             |
 | HelixFold-Single            | 2022     | Deep learning                                  | [GitHub](https://github.com/PaddlePaddle/PaddleHelix)          | [HelixFold-Single](https://paddlehelix.baidu.com/app/all/helixfold3/forecast)        | [arXiv:2207.13921](https://arxiv.org/abs/2207.13921))                         |
@@ -16,8 +15,6 @@
 | AlphaFold-Multimer    | 2021     | Deep learning                                  | None                                                           | None                                                                           | [10.1101/2021.10.04.463034v2](https://doi.org/10.1101/2021.10.04.463034v2)   |
 | ESM-2 Fold            | 2021     | Transformer-based                              | [GitHub](https://github.com/facebookresearch/esm/tree/main)     | None                                                                           | [10.1073/pnas.2016239118](https://doi.org/10.1073/pnas.2016239118)          |
 | ColabFold             | 2021     | Deep learning                                  | [GitHub](https://github.com/sokrypton/ColabFold)               | None                                                                           | None                                                                 |
-
-
 
 
 
