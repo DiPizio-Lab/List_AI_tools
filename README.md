@@ -25,7 +25,7 @@ This repository is a comprehensive collection of AI-powered tools for molecular 
 9. [Conformational ensemble dynamics](conformational-ensemble-design/README.md)  
    *Utilize AI methods to analyze conformational landscapes of proteins, revealing critical insights into their dynamic behavior.*
 
-10. [Tools for structural analysis](/README.md)  
+10. [Tools for structural analysis](https://github.com/DiPizio-Lab/List_AI_tools/blob/main/tools-for-analyses)  
    *Explore tools that have been designed to analyse AI-powered structure models, facilitating the use and interpretation of results.*
 
 
