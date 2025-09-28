@@ -7,4 +7,7 @@
 | FragFold    | 2023     | AF2-based                   | [GitHub](https://github.com/swanss/FragFold)                         | None                                                                                            | [10.1101/2023.12.19.572389](https://doi.org/10.1101/2023.12.19.572389) |
 | MaSIF<sup>†</sup>   | 2023     | Geometric deep learning   | [GitHub](https://github.com/LPDI-EPFL/masif_seed)                    | None                                                                                            | [s41586-023-05993-x](https://doi.org/10.1038/s41586-023-05993-x)        |
 | LightDock  | 2023     | Particle-swarm docking      | [GitHub](https://github.com/lightdock)                               | [LightDock Server](https://server.lightdock.org/)                                               | [10.1093/nar/gkad327](https://doi.org/10.1093/nar/gkad327)            |
+| AlphaFold-multistate  | 2023     | Deep learning                                  | [GitHub](https://github.com/huhlim/alphafold-multistate)       | None                                                                           | [10.1002/prot.26382](https://doi.org/10.1002/prot.26382)                     |
+
+
 
