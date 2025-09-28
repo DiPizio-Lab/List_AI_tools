@@ -4,25 +4,25 @@ This repository is a comprehensive collection of AI-powered tools for molecular 
 
 ## Table of Contents
 
-1. [Protein Folding](protein-folding/README.md)  
+1. [Protein structure prediction](protein-folding/README.md)  
    *Discover AI tools that predict protein folding patterns, accelerating insights into protein structure and function.*
 
-2. [De Novo Protein Design](de-novo-protein-design/README.md)  
+2. [De novo protein design](de-novo-protein-design/README.md)  
    *Explore advanced AI-driven techniques for designing novel protein structures from scratch, enabling in-silico protein engineering.*
 
-3. [De Novo Peptide Design](de-novo-peptide-design/README.md)  
+3. [De novo peptide design](de-novo-peptide-design/README.md)  
    *Learn how AI models generate new peptide sequences with targeted functionalities for therapeutic and research applications.*
 
-4. [Conformational Ensemble Dynamics](conformational-ensemble-design/README.md)  
+4. [Conformational ensemble dynamics](conformational-ensemble-design/README.md)  
    *Utilize AI methods to analyze conformational landscapes of proteins, revealing critical insights into their dynamic behavior.*
 
-5. [Ligand Docking/Cofolding](ligand-docking/README.md)  
+5. [Ligand docking/Cofolding](ligand-docking/README.md)  
    *Leverage cutting-edge AI approaches for predicting ligand binding, a key step in modifying protein activity.*
 
-6. [Protein Docking/Multimers](peptide-protein-docking/README.md)  
+6. [Protein Docking/Multimers](protein-protein docking/README.md)
    *Harness AI algorithms to predict interactions between proteins, including multimers and protein complexes.*
 
-7. [Peptide Docking](peptide-protein-docking/README.md)  
+8. [Peptide Docking](peptide-protein-docking/README.md)  
    *Harness AI algorithms to predict interactions between peptides and proteins, facilitating understanding of peptides' molecular mechanisms.*
 
 
