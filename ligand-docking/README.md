@@ -1,5 +1,5 @@
 
-## 6. Ligand Docking/Cofolding
+## 4. Ligand Docking/Cofolding
 
 | **Name**       | **Year** | **Architecture**                 | **Code repository**                                  | **Webserver**                                                                         | **Reference**                                             |
 |:---------------|:--------:|:---------------------------------|:-----------------------------------------------------|:--------------------------------------------------------------------------------------|:----------------------------------------------------------|
@@ -10,6 +10,7 @@
 | DynamicBind    | 2024     | Deep equivariant generative model| [GitHub](https://github.com/luwei0917/DynamicBind)   | [Neurosnap] (https://neurosnap.ai/service/DynamicBind)                                | [s41467-024-45461-2](https://doi.org/10.1038/s41467-024-45461-2)        |
 | Chai-1                | 2024     | Deep learning                                  | [GitHub](https://github.com/chaidiscovery/chai-lab)            | [Chai Lab](https://lab.chaidiscovery.com/)                                     | [10.1101/2024.10.10.615955](https://doi.org/10.1101/2024.10.10.615955)       |
 | LightDock<sup>‡</sup> | 2023     | Particle-swarm docking           | [GitHub](https://github.com/lightdock)               | [LightDock Server](https://server.lightdock.org/)                                     | [10.1093/nar/gkad327](https://doi.org/10.1093/nar/gkad327)             |
+
 
 
 
