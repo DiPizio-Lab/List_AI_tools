@@ -1,4 +1,4 @@
-## 2. Multimer prediction/Peptide Docking
+## 3. Peptide Docking
 
 | **Name**    | **Year** | **Architecture**            | **Code repository**                                                  | **Webserver**                                                                                   | **Reference**                                               |
 |:------------|:--------:|:----------------------------|:---------------------------------------------------------------------|:------------------------------------------------------------------------------------------------|:------------------------------------------------------------|
@@ -11,6 +11,7 @@
 | MaSIF<sup>†</sup>   | 2023     | Geometric deep learning   | [GitHub](https://github.com/LPDI-EPFL/masif_seed)                    | None                                                                                            | [s41586-023-05993-x](https://doi.org/10.1038/s41586-023-05993-x)        |
 | LightDock  | 2023     | Particle-swarm docking      | [GitHub](https://github.com/lightdock)                               | [LightDock Server](https://server.lightdock.org/)                                               | [10.1093/nar/gkad327](https://doi.org/10.1093/nar/gkad327)            |
 | AlphaFold-multistate  | 2023     | Deep learning                                  | [GitHub](https://github.com/huhlim/alphafold-multistate)       | None                                                                           | [10.1002/prot.26382](https://doi.org/10.1002/prot.26382)                     |
+
 
 
 
