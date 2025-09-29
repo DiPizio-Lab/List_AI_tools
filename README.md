@@ -16,7 +16,7 @@ This repository is a comprehensive collection of AI-powered tools for molecular 
 6. [Ligand docking/Cofolding](ligand-docking/README.md)  
    *Leverage cutting-edge AI approaches for predicting ligand binding, a key step in modifying protein activity.*
 
-7. [De novo protein design](de-novo-protein-design/README.md)  
+7. [Protein design](de-novo-protein-design/README.md)  
    *Explore advanced AI-driven techniques for designing novel protein structures from scratch, enabling in-silico protein engineering.*
 
 8. [De novo peptide design](de-novo-peptide-design/README.md)  
