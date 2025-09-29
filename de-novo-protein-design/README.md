@@ -9,7 +9,8 @@
 | MaSIF    | 2023     | Geometric deep learning  | design of protein binders | [GitHub](https://github.com/LPDI-EPFL/masif_seed)                                                                       | None                                                                                           | [s41586-023-05993-x](https://doi.org/10.1038/s41586-023-05993-x)         |
 | RFdiffusion         | 2022     | Diffusion-based          | design or refine protein backbones (+ProteinMPNN)| [GitHub](https://github.com/RosettaCommons/RFdiffusion/tree/main)                                                        | None                                                                                           | [10.1101/2022.12.09.519842](https://doi.org/10.1101/2022.12.09.519842)   |
 | ProteinMPNN          | 2022     | Deep learning            | new sequence design (+RFdiffusion)| [GitHub](https://github.com/dauparas/ProteinMPNN)                                                                       | [Neurosnap](https://neurosnap.ai/service/ProteinMPNN)                                          | [10.1126/science.add2187](https://doi.org/10.1126/science.add2187)       |
-| ProtGPT2             | 2022     | Language model           | | [Hugging Face](https://huggingface.co/nferruz/ProtGPT2)                                                                 | None                                                                                           | [10.1038/s41467-022-32007-7](https://doi.org/10.1038/s41467-022-32007-7) |
+| ProtGPT2             | 2022     | LM           | de novo protein sequences | [Hugging Face](https://huggingface.co/nferruz/ProtGPT2)                                                                 | None                                                                                           | [10.1038/s41467-022-32007-7](https://doi.org/10.1038/s41467-022-32007-7) |
+
 
 
 
