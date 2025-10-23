@@ -2,7 +2,7 @@
 
 | **Name**    | **Year** | **Architecture**          | **Code repository**                                         | **Webserver**                                                                 | **Reference**                                           |
 |:------------|:--------:|:--------------------------|:------------------------------------------------------------|:-------------------------------------------------------------------------------|:---------------------------------------------------------|
-| AF-CALVADOS | 2025     |   | [GitHub](https://github.com/PhyloSofS-Team/seamoon](https://github.com/KULL-Centre/_2025_buelow_AF-CALVADOS)               | None                                                                           | [10.1101/2025.10.19.683306v1](https://www.biorxiv.org/content/10.1101/2025.10.19.683306v1) |
+| AF-CALVADOS | 2025     |   | [GitHub](https://github.com/PhyloSofS-Team/seamoon](https://github.com/KULL-Centre/_2025_buelow_AF-CALVADOS )               | None                                                                           | [10.1101/2025.10.19.683306v1](https://www.biorxiv.org/content/10.1101/2025.10.19.683306v1) |
 | SeaMoon | 2025     |   | [GitHub](https://github.com/PhyloSofS-Team/seamoon)               | None                                                                           | [10.1016/j.str.2025.06.010](https://doi.org/10.1016/j.str.2025.06.010) |
 | FeNNix-Bio1 | 2025     |   | None               | None                                                                           | [10.26434/chemrxiv-2025-f1hgn-v3](https://doi.org/10.26434/chemrxiv-2025-f1hgn-v3) |
 | Angular Deviation Diffuser | 2025     | transformer-based diffusion model  | [GitHub](https://github.com/AlanYangYi/Angular_Deviation_Diffuser)               | None                                                                           | [10.1101/2025.03.03.6404921](https://doi.org/10.1101/2025.03.03.640492) |
@@ -10,6 +10,7 @@
 | AlphaFlow   | 2024     | Flow-based deep learning  | [GitHub](https://github.com/bjing2016/alphaflow)            | None                                                                           | [arXiv:2402.04845](https://arxiv.org/abs/2402.04845)     |
 | DANCE   | 2024     |   | [GitHub](https://github.com/PhyloSofS-Team/DANCE)            | None                                                                           | [10.1038/s41597-024-03524-5](https://doi.org/10.1038/s41597-024-03524-5)     |
 | Cfold       | 2024     | Deep learning             | [GitHub](https://github.com/patrickbryant1/Cfold)           | [Colab Notebook](https://colab.research.google.com/github/dina-lab3D/CombFold/blob/master/CombFold.ipynb)* | [s41467-024-51507-2](https://doi.org/10.1038/s41467-024-51507-2) |
+
 
 
 
